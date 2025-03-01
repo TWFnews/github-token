@@ -4819,6 +4819,19 @@
             "a": 1
           }
         }
+      },
+      {
+        "id": "VariableID:6059:3",
+        "name": "white/1000special",
+        "type": "COLOR",
+        "values": {
+          "44:0": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
       }
     ]
   },
